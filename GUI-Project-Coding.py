@@ -1,11 +1,4 @@
 
-# In this project, I've been researching on how to run a basic music player.
-# I learned about pygame which is a cross-platform that is set of Python modules designed for writing video games.
-# However, it can also be used to make a simple music playlist.
-# I'm a big Porter Robinson fan who is my favorite musician and I want to make a simple music player only for his newest album called 'Nurture'.
-# I will include all of the bibligraphy, cites and screenshots of buttons, other useful sources that I learned writing program for a music playlist.
-# I will also show screenshots of how I installed pygame on my laptop terminal.
-
 import tkinter as tk
 
 # this import END that I got is supported by VScode while I was coding and got stuck which is linked with the problem the define add song(): below which I will explain
