@@ -7,5 +7,5 @@ However, it can also be used to make a simple music playlist.
 I'm a big Porter Robinson fan whom is my favorite musician and I want to make a simple music player only for his album called 'Nurture'.
 I will include all of the bibligraphy, citation and screenshots of buttons, other useful sources that I learned writing program for a music playlist in the code folder.
 
-I will also show screenshots of how I installed pygame on my laptop terminal but make sure you install pygame in your IDE terminal
-Such as mine, I use VScode: pip install --upgrade pygame
+I will also show screenshots of how I installed pygame on my device's terminal but make sure you install pygame in your IDE terminal to run the program
+Such as mine, I use VScode so it would be: pip install --upgrade pygame
